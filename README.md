@@ -1,4 +1,4 @@
-## Welcome to Project 3
+## Welcome to CIT 281 Project 3
 
 ### Learning Objectives
 
